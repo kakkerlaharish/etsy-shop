@@ -1,15 +1,64 @@
-﻿# Brand Asset Checklist
+# Brand Asset Checklist
 
-## Purpose
+## Sources of truth
 
-Define the H4HappyLiving standard for this topic.
+- **Canva Brand Kit:** active Canva colors, fonts, and logos.
+- **Repository:** editable originals, documented rules, color values, and version history in `assets/brand/` and `docs/01_brand/`.
+- **Canva Brand folder:** convenient working copies and visual references for Canva users.
 
-## Working notes
+When the identity changes, update all three sources and record the change in `CHANGELOG.md`.
 
-- Add decisions, links, examples, and review dates here.
-- Keep customer value, clarity, and legal/licensing compliance central.
+## Current assets
+
+| Asset | Repository | Canva | Status |
+|---|---|---|---|
+| Primary logo | `assets/brand/logos/h4happyliving-primary.svg` | Brand → Logos & Marks | Complete |
+| Brand mark | `assets/brand/logos/h4happyliving-mark.svg` | Brand → Logos & Marks | Complete |
+| One-color logo | `assets/brand/logos/h4happyliving-one-color.svg` | Brand → Logos & Marks | Complete |
+| Brand board | SVG and PNG in `assets/brand/` | Brand → Brand Guidelines | Complete |
+| Color palette | `assets/brand/colors/palette.json` | H4HappyLiving Brand Kit | Complete |
+| Visual identity rules | `docs/01_brand/visual_identity.md` | Brand board reference | Complete |
+| Brand voice | `docs/01_brand/brand_voice.md` | Evidenced by current pillar designs; no standalone Canva voice document | Complete |
+
+## Canva locations
+
+- [Logos & Marks](https://www.canva.com/folder/FAHQ3knvE7w)
+- [Brand Guidelines](https://www.canva.com/folder/FAHQ3pBOk6U)
+- **Photography & Graphics:** store shared licensed photography, textures, patterns, and illustrations here.
+
+## Still recommended before launch
+
+- White/reversed logo exports for dark backgrounds.
+- Etsy shop icon and banner variants.
+- Social profile and cover variants for each active channel.
+- Favicon sizes for the future website.
+- Font license files stored with any distributed font files.
+- Trademark clearance for the name and final logo.
+- A licensing record for purchased photography, fonts, graphics, and mockups.
+
+## File management rules
+
+- Keep master SVG files in the repository and upload working copies to Canva.
+- Do not place product-specific artwork in the shared Brand folder.
+- Do not upload drafts into the Canva Brand Kit.
+- Use the Brand Kit only for approved, current identity assets.
+- Move superseded assets to an archive and clearly label them as retired.
+
+## Latest Canva content review
+
+The Canva account was reviewed on 2026-07-30 before expanding the project guidelines and voice documents. The current Brand Kit, uploaded brand board, logo material, and four pillar designs were used as source material. A newer untitled Canva Doc contained no readable brand content, and the two-page `H4HappyLife Etsy Brand Logo` file contained logo text rather than full guidelines.
+
+Approved pillar messages captured from Canva are:
+
+- Organize: **Make room for what matters.**
+- Learn: **Grow a little every day.**
+- Create: **Make it personal.**
+- Thrive: **Progress, your way.**
+
+Generated dates, venues, event invitations, and unrelated filler found in individual designs are not approved brand content.
 
 ## Revision history
 
+- 2026-07-30 — Recorded the latest Canva content review and approved pillar messages.
+- 2026-07-30 — Recorded current repository and Canva brand assets, locations, status, and remaining launch needs.
 - 2026-07-29 — Initial starter document.
-

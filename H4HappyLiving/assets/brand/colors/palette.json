@@ -1,0 +1,20 @@
+{
+  "brand": "H4HappyLiving",
+  "colors": {
+    "evergreen": "#285247",
+    "ink": "#24332F",
+    "warmCream": "#FFF9F1",
+    "softSage": "#B8D2C5",
+    "goldenJoy": "#F2B84B",
+    "coral": "#E77B68",
+    "sky": "#77AFC2",
+    "freshLeaf": "#7FAE74",
+    "white": "#FFFFFF"
+  },
+  "pillars": {
+    "organize": "#F2B84B",
+    "learn": "#77AFC2",
+    "create": "#E77B68",
+    "thrive": "#7FAE74"
+  }
+}

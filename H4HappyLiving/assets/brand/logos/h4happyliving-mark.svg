@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">H4HappyLiving brand mark</title>
+  <desc id="desc">A rounded evergreen home containing four colorful windows.</desc>
+  <path fill="#285247" d="M16 55.5 56.1 19a11.8 11.8 0 0 1 15.8 0L112 55.5V108a12 12 0 0 1-12 12H28a12 12 0 0 1-12-12V55.5Z"/>
+  <rect x="35" y="52" width="24" height="24" rx="8" fill="#F2B84B"/>
+  <rect x="69" y="52" width="24" height="24" rx="8" fill="#77AFC2"/>
+  <rect x="35" y="84" width="24" height="24" rx="8" fill="#E77B68"/>
+  <rect x="69" y="84" width="24" height="24" rx="8" fill="#7FAE74"/>
+</svg>

@@ -1,0 +1,22 @@
+{
+  "brand": "H4HappyLiving",
+  "system": "Option 1 - Calm Everyday",
+  "status": "approved",
+  "approvedAt": "2026-07-30",
+  "primaryFamily": "Nunito Sans",
+  "accentFamily": "Lora",
+  "canvaStyles": {
+    "title": { "family": "Nunito Sans", "style": "Ultra Bold", "size": 42 },
+    "subtitle": { "family": "Nunito Sans", "style": "Semi Bold", "size": 32 },
+    "heading": { "family": "Nunito Sans", "style": "Bold", "size": 28 },
+    "subheading": { "family": "Nunito Sans", "style": "Semi Bold", "size": 24 },
+    "sectionHeader": { "family": "Nunito Sans", "style": "Bold", "size": 20 },
+    "body": { "family": "Nunito Sans", "style": "Regular", "size": 16 },
+    "quote": { "family": "Lora", "style": "Regular Italic", "size": 18 },
+    "caption": { "family": "Nunito Sans", "style": "Regular", "size": 12 }
+  },
+  "fallbacks": {
+    "primary": ["Avenir Next", "Arial", "sans-serif"],
+    "accent": ["Georgia", "serif"]
+  }
+}

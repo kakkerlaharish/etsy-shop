@@ -19,16 +19,27 @@ Editable SVG files live in `assets/brand/logos/`.
 
 ## Color palette
 
+**Approved system:** Option 1 — Calm Everyday. This palette was installed in the H4HappyLiving Canva Brand Kit on 2026-07-30.
+
 | Role | Name | Hex | Use |
 |---|---|---:|---|
 | Primary | Evergreen | `#285247` | Logo, headings, buttons |
 | Dark neutral | Ink | `#24332F` | Body text |
 | Light neutral | Warm Cream | `#FFF9F1` | Main background |
 | Secondary | Soft Sage | `#B8D2C5` | Panels and patterns |
+| Neutral | White | `#FFFFFF` | Clean layouts and reversed spacing |
 | Accent | Golden Joy | `#F2B84B` | Highlights and Organize |
 | Accent | Coral | `#E77B68` | Attention and Create |
 | Accent | Sky | `#77AFC2` | Learn |
 | Accent | Fresh Leaf | `#7FAE74` | Thrive |
+
+### Color balance
+
+- Use Warm Cream or white for approximately 60–70% of a typical layout.
+- Use Evergreen, Ink, or Soft Sage for approximately 20–30%.
+- Keep the active pillar accent near 10%.
+- Use only one dominant pillar accent in a single product or campaign design.
+- Evergreen remains the master-brand color even when a pillar accent is prominent.
 
 ### Accessibility
 
@@ -39,8 +50,24 @@ Editable SVG files live in `assets/brand/logos/`.
 
 ## Typography
 
-- **Nunito Sans:** headings, body copy, labels, instructions, and listings. Use 700 for headings, 600 for labels, and 400 for body text.
-- **Lora:** optional accent for short editorial phrases and warm product titles. Use 600 and never use it for instructions or small text.
+**Approved system:** Nunito Sans with Lora as a limited editorial accent. The following styles were installed in the H4HappyLiving Canva Brand Kit on 2026-07-30.
+
+| Canva role | Family | Style | Default size | Use |
+|---|---|---|---:|---|
+| Title | Nunito Sans | Ultra Bold | 42 | Covers, hero messages, major campaign titles |
+| Subtitle | Nunito Sans | Semi Bold | 32 | Supporting hero message |
+| Heading | Nunito Sans | Bold | 28 | Main page or listing section heading |
+| Subheading | Nunito Sans | Semi Bold | 24 | Secondary section heading |
+| Section header | Nunito Sans | Bold | 20 | Labels and compact section titles |
+| Body | Nunito Sans | Regular | 16 | Instructions, descriptions, and paragraphs |
+| Quote | Lora | Regular Italic | 18 | Short reflective or editorial accent only |
+| Caption | Nunito Sans | Regular | 12 | Captions, metadata, and secondary notes |
+
+- Use no more than two font families in one design.
+- Use Nunito Sans for all functional, instructional, marketplace, and small text.
+- Reserve Lora Italic for one or two short lines; never use it for instructions, specifications, buttons, or captions.
+- Prefer sentence case. Reserve all caps for very short labels with generous spacing.
+- Maintain visible size contrast between title, heading, body, and caption roles.
 - Fallbacks: `"Nunito Sans", "Avenir Next", Arial, sans-serif` and `Lora, Georgia, serif`.
 - Both families are available under open licenses. Keep license files with distributed font files.
 
@@ -66,5 +93,6 @@ Pillar colors support navigation; they do not replace the Evergreen-and-Cream co
 
 ## Revision history
 
+- 2026-07-30 — Locked Option 1 Calm Everyday colors and the Nunito Sans/Lora role system into the Canva Brand Kit and documented exact usage.
 - 2026-07-30 — Established visual concept, logo system, palette, typography, accessibility, and art direction.
 - 2026-07-29 — Initial starter document.

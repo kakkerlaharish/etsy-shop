@@ -55,6 +55,16 @@ The top-level **Product** folder is intentionally empty until an actual product 
 
 The **H4HappyLiving Canva Brand Kit** remains at the Canva account level and is the source of truth for active colors, fonts, and logos. Canva does not store a Brand Kit inside a project folder.
 
+### Active Brand Kit configuration
+
+Option 1 — Calm Everyday was applied on 2026-07-30.
+
+- Core colors: Evergreen `#285247`, Ink `#24332F`, Warm Cream `#FFF9F1`, White `#FFFFFF`, and Soft Sage `#B8D2C5`.
+- Pillar colors: Golden Joy `#F2B84B`, Sky `#77AFC2`, Coral `#E77B68`, and Fresh Leaf `#7FAE74`.
+- Primary typography: Nunito Sans across Title, Subtitle, Heading, Subheading, Section header, Body, and Caption.
+- Editorial accent: Lora Regular Italic for Quote.
+- Exact weights and default sizes are defined in `docs/01_brand/visual_identity.md` and `assets/brand/fonts/typography.json`.
+
 Use **H4HappyLiving → Brand** for supporting files such as logo exports, the brand board, photography, graphics, and human-readable guidance. Keep the Canva Brand Kit and the repository files in `assets/brand/` aligned whenever the identity changes.
 
 ### Brand-content synchronization

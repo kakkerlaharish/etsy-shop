@@ -16,7 +16,8 @@ When the identity changes, update all three sources and record the change in `CH
 | Brand mark | `assets/brand/logos/h4happyliving-mark.svg` | Brand → Logos & Marks | Complete |
 | One-color logo | `assets/brand/logos/h4happyliving-one-color.svg` | Brand → Logos & Marks | Complete |
 | Brand board | SVG and PNG in `assets/brand/` | Brand → Brand Guidelines | Complete |
-| Color palette | `assets/brand/colors/palette.json` | H4HappyLiving Brand Kit | Complete |
+| Color palette | `assets/brand/colors/palette.json` | H4HappyLiving Brand Kit: nine named Option 1 colors | Locked |
+| Typography system | `assets/brand/fonts/typography.json` | H4HappyLiving Brand Kit: eight configured text roles | Locked |
 | Visual identity rules | `docs/01_brand/visual_identity.md` | Brand board reference | Complete |
 | Brand voice | `docs/01_brand/brand_voice.md` | Evidenced by current pillar designs; no standalone Canva voice document | Complete |
 
@@ -29,12 +30,16 @@ When the identity changes, update all three sources and record the change in `CH
 ## Still recommended before launch
 
 - White/reversed logo exports for dark backgrounds.
-- Etsy shop icon and banner variants.
+- Etsy shop logo: export the existing brand mark as a 1000 x 1000 px sRGB PNG on Warm Cream; Etsy requires at least 500 x 500 px.
+- Etsy big banner: create a 1600 x 400 px sRGB PNG or JPG using the primary wordmark and the message **Practical joy for everyday life.**
+- Seller photo: obtain a real square owner portrait; do not substitute the brand logo.
 - Social profile and cover variants for each active channel.
 - Favicon sizes for the future website.
 - Font license files stored with any distributed font files.
 - Trademark clearance for the name and final logo.
 - A licensing record for purchased photography, fonts, graphics, and mockups.
+
+Detailed Etsy requirements, upload paths, and About-section guidance are in `docs/03_etsy/etsy_storefront_assets.md`.
 
 ## File management rules
 
@@ -57,8 +62,19 @@ Approved pillar messages captured from Canva are:
 
 Generated dates, venues, event invitations, and unrelated filler found in individual designs are not approved brand content.
 
+## Canva Brand Kit implementation
+
+Option 1 — Calm Everyday was installed on 2026-07-30.
+
+- Palette: Evergreen, Ink, Warm Cream, White, Soft Sage, Golden Joy, Sky, Coral, and Fresh Leaf.
+- Primary type family: Nunito Sans.
+- Accent type family: Lora.
+- Configured roles: Title, Subtitle, Heading, Subheading, Section header, Body, Quote, and Caption.
+- Canva provides Lora Regular and Bold in this workspace; Quote therefore uses Lora Regular Italic rather than Semi Bold.
+
 ## Revision history
 
+- 2026-07-30 — Added Etsy-verified logo, banner, and seller-photo deliverables and linked the storefront specification.
 - 2026-07-30 — Recorded the latest Canva content review and approved pillar messages.
 - 2026-07-30 — Recorded current repository and Canva brand assets, locations, status, and remaining launch needs.
 - 2026-07-29 — Initial starter document.

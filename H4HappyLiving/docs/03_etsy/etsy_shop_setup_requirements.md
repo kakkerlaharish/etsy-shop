@@ -22,6 +22,12 @@
 6. Create and review the first listing, then open the shop.
 7. Store backup codes securely outside the repository.
 
+## Storefront customization
+
+The H4HappyLiving shop name is set. Etsy Shop Manager currently shows four remaining storefront tasks: add a logo, create a banner, share the shop story, and upload a seller photo.
+
+Use [`etsy_storefront_assets.md`](etsy_storefront_assets.md) for Etsy's current file requirements, upload paths, H4HappyLiving production specifications, and approved starter copy.
+
 ## Digital-download rules
 
 Digital products must be made and/or designed by the seller. Etsy currently supports up to five files per instant-download listing, each up to 20 MB. File names are buyer-visible and are limited to 70 permitted characters. Digital listings do not support variations.
@@ -41,7 +47,11 @@ Digital products must be made and/or designed by the seller. Etsy currently supp
 - [How to Manage Your Digital Listings](https://help.etsy.com/hc/en-us/articles/115015628347-How-to-Manage-Your-Digital-Listings)
 - [How to Verify Your Identity on Etsy](https://help.etsy.com/hc/en-us/articles/22481159004567-How-to-Verify-Your-Identity-on-Etsy)
 - [Etsy Payments](https://help.etsy.com/hc/en-us/articles/360002120927-What-is-Etsy-Payments)
+- [Requirements and Best Practices for Images in Your Etsy Shop](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop)
+- [How to Customize Your Shop's Appearance](https://help.etsy.com/hc/en-us/articles/115015663247-How-to-Customize-Your-Shop-s-Appearance)
+- [How to Edit Your Shop's About Section](https://help.etsy.com/hc/en-us/articles/115015628487-How-to-Edit-Your-Shop-s-About-Section)
 
 ## Revision history
 
+- 2026-07-30 — Added the live storefront status and linked the detailed Etsy storefront asset specification.
 - 2026-07-29 — Initial guide based on Etsy Help Center review.

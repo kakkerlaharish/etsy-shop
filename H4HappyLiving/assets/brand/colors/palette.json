@@ -1,20 +1,28 @@
 {
   "brand": "H4HappyLiving",
+  "system": "Option 1 - Calm Everyday",
+  "status": "approved",
+  "approvedAt": "2026-07-30",
   "colors": {
     "evergreen": "#285247",
     "ink": "#24332F",
     "warmCream": "#FFF9F1",
+    "white": "#FFFFFF",
     "softSage": "#B8D2C5",
     "goldenJoy": "#F2B84B",
-    "coral": "#E77B68",
     "sky": "#77AFC2",
-    "freshLeaf": "#7FAE74",
-    "white": "#FFFFFF"
+    "coral": "#E77B68",
+    "freshLeaf": "#7FAE74"
   },
   "pillars": {
     "organize": "#F2B84B",
     "learn": "#77AFC2",
     "create": "#E77B68",
     "thrive": "#7FAE74"
+  },
+  "usage": {
+    "background": "60-70% Warm Cream or White",
+    "structure": "20-30% Evergreen, Ink, or Soft Sage",
+    "accent": "Approximately 10% using one primary pillar color"
   }
 }

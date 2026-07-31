@@ -4,13 +4,21 @@
 
 This guide translates the H4HappyLiving strategy into repeatable writing behavior. It was synchronized on 2026-07-30 with the current Canva Brand Kit, brand board, and live Organize, Learn, Create, and Thrive designs.
 
-Canva does not currently contain a separate readable brand-voice document. The approved pillar lines are treated as current messaging evidence; incidental generated details such as invented events, dates, venues, and calls to action are not brand standards.
+Canva now contains a dedicated Brand Voice guideline synchronized with this document. The Canva version is intentionally condensed for its field limits; this file remains the detailed source of truth. Incidental generated details such as invented events, dates, venues, and calls to action are not brand standards.
 
 ## Voice in one line
 
 **A capable, caring guide who makes everyday progress feel possible.**
 
 The brand sounds like someone who understands that real life is busy, offers a useful next step, and leaves room for the customer to choose what works for them.
+
+## Canva Brand Voice implementation
+
+The Canva Brand Kit uses a 384-character summary, within Canva's 500-character summary limit:
+
+> H4HappyLiving sounds like a capable, caring guide who makes everyday progress feel possible. Use a warm, clear, practical, encouraging, and trustworthy tone across Etsy listings, product instructions, social content, campaigns, and customer care. Help people feel more capable, calm, and supported without pressure or perfection. Write for real homes, real routines, and flexible use.
+
+Its Do and Don't fields reinforce benefit-led writing, plain US English, accurate product details, flexible language, pillar-specific tone, no pressure or fabricated claims, and no medical or guaranteed outcomes.
 
 ## Core voice traits
 

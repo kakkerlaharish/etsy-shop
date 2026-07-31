@@ -13,6 +13,10 @@ Source hierarchy when materials disagree:
 
 The official name is always **H4HappyLiving**. Do not shorten it to H4HappyLife or add spaces unless a platform limitation requires an approved variation.
 
+### Canva implementation
+
+The Canva Brand Guidelines document was published and verified on 2026-07-30. Its concise, layout-safe version includes the mission, vision, logo rules, Calm Everyday palette, Nunito Sans/Lora hierarchy, four pillars, brand voice traits, photography direction, and chart guidance. This repository document remains the detailed governance source.
+
 ## Brand foundation
 
 H4HappyLiving helps make everyday life feel more manageable, meaningful, and joyful through practical products designed for real homes and real routines.

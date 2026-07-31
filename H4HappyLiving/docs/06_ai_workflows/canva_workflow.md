@@ -77,7 +77,14 @@ Canva provides the visual working environment; the detailed written standards li
 4. Update the repository documents with approved decisions and record the review date.
 5. Update Canva working assets if the documented identity changes.
 
-Do not treat invented dates, venues, events, statistics, testimonials, or generic calls to action in generated Canva designs as brand policy. As of the 2026-07-30 review, Canva does not contain a separate readable brand-voice document; the repository voice guide is the detailed source of truth.
+Do not treat invented dates, venues, events, statistics, testimonials, or generic calls to action in generated Canva designs as brand policy. As of 2026-07-30, Canva contains a dedicated condensed Brand Voice guideline and a published Brand Guidelines document. The repository voice and guideline files remain the detailed sources of truth.
+
+### Current written-guidance status
+
+- Brand Voice summary: 384 of Canva's 500 available characters.
+- Brand Voice Do/Don't guidance: installed and verified.
+- Brand Guidelines: published with foundation, logo, palette, typography, pillars, voice, photography, and chart rules.
+- Keep Canva's concise text synchronized whenever the detailed repository standards change materially.
 
 ## Product-first rule
 

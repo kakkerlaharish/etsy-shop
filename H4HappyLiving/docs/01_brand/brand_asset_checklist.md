@@ -19,7 +19,7 @@ When the identity changes, update all three sources and record the change in `CH
 | Color palette | `assets/brand/colors/palette.json` | H4HappyLiving Brand Kit: nine named Option 1 colors | Locked |
 | Typography system | `assets/brand/fonts/typography.json` | H4HappyLiving Brand Kit: eight configured text roles | Locked |
 | Visual identity rules | `docs/01_brand/visual_identity.md` | Brand board reference | Complete |
-| Brand voice | `docs/01_brand/brand_voice.md` | Evidenced by current pillar designs; no standalone Canva voice document | Complete |
+| Brand voice | `docs/01_brand/brand_voice.md` | Dedicated Canva Brand Voice summary with Do/Don't guidance | Complete |
 
 ## Canva locations
 
@@ -71,6 +71,8 @@ Option 1 — Calm Everyday was installed on 2026-07-30.
 - Accent type family: Lora.
 - Configured roles: Title, Subtitle, Heading, Subheading, Section header, Body, Quote, and Caption.
 - Canva provides Lora Regular and Bold in this workspace; Quote therefore uses Lora Regular Italic rather than Semi Bold.
+- Brand Voice summary saved at 384 of 500 characters, with detailed Do and Don't guidance.
+- Brand Guidelines document published with foundation, pillars, logo, palette, typography, voice, photography, and chart standards.
 
 ## Revision history
 

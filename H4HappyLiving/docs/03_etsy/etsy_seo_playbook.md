@@ -7,7 +7,7 @@ Make each listing easy for the right shopper to understand and find.
 ## Keyword process
 
 1. Start with the customer’s problem, product type, recipient, occasion, style, and format.
-2. Gather real Etsy search phrases and competitor wording; record evidence in `research/keywords/`.
+2. Gather real Etsy search phrases and competitor wording; record the evidence in the niche's `research/niches/<niche-name>/evidence.xlsx` workbook.
 3. Choose one primary phrase that accurately describes the item.
 4. Build related, natural long-tail phrases for the title, tags, attributes, and opening description.
 5. Avoid irrelevant or misleading keywords.
@@ -31,4 +31,5 @@ Revisit listings after enough impressions and visits to learn from. Change one m
 
 ## Revision history
 
+- 2026-07-30 — Consolidated keyword evidence into the per-niche research workbook.
 - 2026-07-29 — Initial playbook.

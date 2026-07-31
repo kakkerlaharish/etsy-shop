@@ -14,7 +14,7 @@ H4HappyLiving is a family-inspired lifestyle brand creating practical, beautiful
 - `products/` — one self-contained folder per product; pillars are recorded as metadata rather than used as folder levels
 - `assets/` — reusable brand files, mockups, and photography
 - `templates/` — repeatable product and listing documents
-- `research/` — EverBee, competitor, keyword, and trend research
+- `research/niches/` — one concise analysis and supporting evidence workbook per researched niche
 - `automation/` — future workflows and scripts
 
 ## Product principles
@@ -39,6 +39,7 @@ Practical, thoughtful products for everyday life.
 
 ## Revision history
 
+- 2026-07-30 — Consolidated pre-product research under `research/niches/`.
 - 2026-07-30 — Documented the aligned product-first Canva workspace and legacy archive.
 - 2026-07-30 — Adopted a product-first folder model with brand pillars stored as metadata.
 - 2026-07-29 — Initial project foundation.

@@ -4,6 +4,9 @@ All notable project-system changes are recorded here.
 
 ## Unreleased
 
+- Finalized the 1600 x 400 Etsy big banner by centering the two-line thank-you text on the brown tag, renaming the Canva design as final, and replacing the prior canonical PNG without retaining a duplicate repository version.
+- Approved the final four-pillar H4HappyLiving Etsy shop icon with an Evergreen `H` and Warm Coral `4`; retained the 2000 x 2000 master and added a verified 500 x 500 opaque RGB Etsy upload asset. Etsy upload and crop review remain pending.
+- Approved and stored the original-style 1600 x 400 H4HappyLiving Etsy big banner as the canonical shop-banner asset; Etsy upload remains pending.
 - Added and verified the dedicated Canva Brand Voice and published H4HappyLiving Brand Guidelines document, synchronized with repository standards.
 - Locked Option 1 — Calm Everyday into the H4HappyLiving Canva Brand Kit with nine named colors and eight Nunito Sans/Lora typography roles; synchronized repository standards and machine-readable tokens.
 - Documented Etsy's current storefront requirements and H4HappyLiving specifications for the logo, banner, About story, and seller photo.

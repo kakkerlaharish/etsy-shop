@@ -20,6 +20,8 @@ When the identity changes, update all three sources and record the change in `CH
 | Typography system | `assets/brand/fonts/typography.json` | H4HappyLiving Brand Kit: eight configured text roles | Locked |
 | Visual identity rules | `docs/01_brand/visual_identity.md` | Brand board reference | Complete |
 | Brand voice | `docs/01_brand/brand_voice.md` | Dedicated Canva Brand Voice summary with Do/Don't guidance | Complete |
+| Etsy big shop banner | `assets/brand/etsy-shop/h4happyliving-etsy-big-banner-1600x400.png` | H4HappyLiving Etsy Banner - Final 1600x400 | Final export verified; Etsy upload pending |
+| Etsy shop icon | Upload: `assets/brand/etsy-shop/h4happyliving-etsy-shop-icon-four-pillars-500x500.png`; master: `assets/brand/etsy-shop/h4happyliving-etsy-shop-icon-four-pillars-2000x2000.png` | H4HappyLiving Etsy Shop Icon - Four Pillars | Etsy-ready export verified; upload pending |
 
 ## Canva locations
 
@@ -30,8 +32,6 @@ When the identity changes, update all three sources and record the change in `CH
 ## Still recommended before launch
 
 - White/reversed logo exports for dark backgrounds.
-- Etsy shop logo: export the existing brand mark as a 1000 x 1000 px sRGB PNG on Warm Cream; Etsy requires at least 500 x 500 px.
-- Etsy big banner: create a 1600 x 400 px sRGB PNG or JPG using the primary wordmark and the message **Practical joy for everyday life.**
 - Seller photo: obtain a real square owner portrait; do not substitute the brand logo.
 - Social profile and cover variants for each active channel.
 - Favicon sizes for the future website.
@@ -75,6 +75,14 @@ Option 1 — Calm Everyday was installed on 2026-07-30.
 - Brand Guidelines document published with foundation, pillars, logo, palette, typography, voice, photography, and chart standards.
 
 ## Revision history
+
+- 2026-08-01 - Replaced the canonical Etsy banner export with the final version after optically centering the thank-you text on the brown tag.
+
+- 2026-08-01 - Added and verified the 500 x 500 opaque RGB Etsy upload export while retaining the 2000 x 2000 Canva master.
+
+- 2026-08-01 - Approved the final 2000 x 2000 four-pillar Etsy shop icon with an Evergreen `H` and Warm Coral `4`, and recorded the canonical repository asset.
+
+- 2026-08-01 - Approved the original-style 1600 x 400 Etsy big banner and recorded the canonical repository asset.
 
 - 2026-07-30 — Added Etsy-verified logo, banner, and seller-photo deliverables and linked the storefront specification.
 - 2026-07-30 — Recorded the latest Canva content review and approved pillar messages.

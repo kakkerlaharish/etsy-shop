@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1040" role="img" aria-labelledby="title desc">
+  <title id="title">H4HappyLiving logo concept board</title>
+  <desc id="desc">Three distinct H4HappyLiving vector logo directions for comparison.</desc>
+  <rect width="1400" height="1040" fill="#24332F"/>
+  <text x="84" y="94" fill="#FFF9F1" font-family="Nunito Sans, Arial, sans-serif" font-size="48" font-weight="800">H4HappyLiving</text>
+  <text x="84" y="134" fill="#B8D2C5" font-family="Lora, Georgia, serif" font-size="22" font-style="italic">logo directions — identity before decoration</text>
+
+  <g transform="translate(84 184)">
+    <rect width="1232" height="226" rx="28" fill="#FFF9F1"/>
+    <circle cx="58" cy="58" r="27" fill="#285247"/>
+    <text x="49" y="68" fill="#FFF9F1" font-family="Nunito Sans, Arial, sans-serif" font-size="28" font-weight="800">A</text>
+    <text x="100" y="68" fill="#285247" font-family="Nunito Sans, Arial, sans-serif" font-size="24" font-weight="800">INTERLOCK</text>
+    <g transform="translate(75 78) scale(.82)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M18 10v118M18 68h58M76 10v118" stroke="#285247" stroke-width="18"/>
+      <path d="M116 10 78 76h52M116 10v118" stroke="#24332F" stroke-width="18"/>
+      <circle cx="130" cy="76" r="8" fill="#F2B84B" stroke="none"/>
+    </g>
+    <text x="260" y="157" fill="#24332F" font-family="Nunito Sans, Arial, sans-serif" font-size="56" font-weight="750" letter-spacing="-2">H4HappyLiving</text>
+    <path d="M264 178h68" stroke="#F2B84B" stroke-width="8" stroke-linecap="round"/>
+    <text x="870" y="131" fill="#285247" font-family="Nunito Sans, Arial, sans-serif" font-size="18" font-weight="700">Distinctive • compact • scalable</text>
+    <text x="870" y="162" fill="#24332F" font-family="Nunito Sans, Arial, sans-serif" font-size="16">Best for app icons, avatars, and product marks.</text>
+  </g>
+
+  <g transform="translate(84 438)">
+    <rect width="1232" height="226" rx="28" fill="#FFF9F1"/>
+    <circle cx="58" cy="58" r="27" fill="#E77B68"/>
+    <text x="49" y="68" fill="#FFF9F1" font-family="Nunito Sans, Arial, sans-serif" font-size="28" font-weight="800">B</text>
+    <text x="100" y="68" fill="#E77B68" font-family="Nunito Sans, Arial, sans-serif" font-size="24" font-weight="800">SHIFT WORDMARK</text>
+    <g font-family="Nunito Sans, Arial, sans-serif" font-weight="800" letter-spacing="-3">
+      <text x="78" y="164" fill="#285247" font-size="72">H</text>
+      <text x="132" y="152" fill="#E77B68" font-size="72">4</text>
+      <text x="183" y="164" fill="#24332F" font-size="64">HappyLiving</text>
+    </g>
+    <g transform="translate(82 185)">
+      <rect width="36" height="8" rx="4" fill="#F2B84B"/>
+      <rect x="44" width="36" height="8" rx="4" fill="#77AFC2"/>
+      <rect x="88" width="36" height="8" rx="4" fill="#E77B68"/>
+      <rect x="132" width="36" height="8" rx="4" fill="#7FAE74"/>
+    </g>
+    <text x="870" y="131" fill="#285247" font-family="Nunito Sans, Arial, sans-serif" font-size="18" font-weight="700">Friendly • direct • typography-led</text>
+    <text x="870" y="162" fill="#24332F" font-family="Nunito Sans, Arial, sans-serif" font-size="16">Best for Etsy headers and broad lifestyle use.</text>
+  </g>
+
+  <g transform="translate(84 692)">
+    <rect width="1232" height="226" rx="28" fill="#FFF9F1"/>
+    <circle cx="58" cy="58" r="27" fill="#77AFC2"/>
+    <text x="49" y="68" fill="#FFF9F1" font-family="Nunito Sans, Arial, sans-serif" font-size="28" font-weight="800">C</text>
+    <text x="100" y="68" fill="#77AFC2" font-family="Nunito Sans, Arial, sans-serif" font-size="24" font-weight="800">RHYTHM</text>
+    <g transform="translate(70 102)" fill="none" stroke-width="15" stroke-linecap="round">
+      <path d="M8 55Q25 16 42 51" stroke="#F2B84B"/>
+      <path d="M47 51Q63 79 79 42" stroke="#77AFC2"/>
+      <path d="M84 42Q101 7 118 40" stroke="#E77B68"/>
+      <path d="M123 40Q139 67 155 29" stroke="#7FAE74"/>
+    </g>
+    <text x="258" y="157" fill="#24332F" font-family="Nunito Sans, Arial, sans-serif" font-size="58" font-weight="750" letter-spacing="-2">H4HappyLiving</text>
+    <text x="262" y="187" fill="#285247" font-family="Lora, Georgia, serif" font-size="17" font-style="italic">a happier rhythm for everyday life</text>
+    <text x="870" y="131" fill="#285247" font-family="Nunito Sans, Arial, sans-serif" font-size="18" font-weight="700">Expressive • optimistic • expandable</text>
+    <text x="870" y="162" fill="#24332F" font-family="Nunito Sans, Arial, sans-serif" font-size="16">Best for a flexible four-pillar visual system.</text>
+  </g>
+
+  <text x="84" y="986" fill="#B8D2C5" font-family="Nunito Sans, Arial, sans-serif" font-size="18">Concepts use the approved Calm Everyday palette. Final artwork should be converted to outlined vector paths after selection.</text>
+</svg>

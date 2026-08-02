@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+  <title id="title">H4HappyLiving reversed black-and-white badge</title>
+  <desc id="desc">A white H4 centered inside a solid black circle for one-color reversed applications.</desc>
+  <circle cx="500" cy="500" r="455" fill="#000000"/>
+  <text x="176" y="682" fill="#FFFFFF" font-family="Nunito Sans, Arial Rounded MT Bold, Arial, sans-serif" font-size="500" font-weight="800" letter-spacing="-52">H4</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 300" role="img" aria-labelledby="title desc">
+  <title id="title">H4HappyLiving primary horizontal wordmark</title>
+  <desc id="desc">The selected Version 1 wordmark with Evergreen H, raised Coral 4, Ink HappyLiving, and four pillar accents.</desc>
+  <g fill="#285247">
+    <rect x="24" y="50" width="48" height="160" rx="4"/>
+    <rect x="126" y="50" width="48" height="160" rx="4"/>
+    <rect x="24" y="112" width="150" height="44" rx="4"/>
+  </g>
+  <path fill="#E77B68" d="M267 31h55v179h-50v-49H163v-43L253 31h14Zm5 70-48 68h48v-68Z"/>
+  <text x="346" y="210" fill="#24332F" font-family="Nunito Sans, Arial Rounded MT Bold, Arial, sans-serif" font-size="182" font-weight="800" letter-spacing="-8">HappyLiving</text>
+  <g transform="translate(28 252)">
+    <rect width="104" height="20" rx="10" fill="#F2B84B"/>
+    <rect x="126" width="104" height="20" rx="10" fill="#77AFC2"/>
+    <rect x="252" width="104" height="20" rx="10" fill="#E77B68"/>
+    <rect x="378" width="104" height="20" rx="10" fill="#7FAE74"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 180" role="img" aria-labelledby="title desc">
+  <title id="title">H4HappyLiving Rhythm logo concept</title>
+  <desc id="desc">Four abstract rising strokes paired with a friendly H4HappyLiving wordmark.</desc>
+  <rect width="820" height="180" rx="24" fill="#FFF9F1"/>
+  <g transform="translate(31 38)" fill="none" stroke-width="17" stroke-linecap="round">
+    <path d="M8 72Q25 30 42 66" stroke="#F2B84B"/>
+    <path d="M47 66Q63 96 79 55" stroke="#77AFC2"/>
+    <path d="M84 55Q101 16 118 53" stroke="#E77B68"/>
+    <path d="M123 53Q139 83 155 40" stroke="#7FAE74"/>
+  </g>
+  <text x="218" y="104" fill="#24332F" font-family="Nunito Sans, Avenir Next, Arial, sans-serif" font-size="60" font-weight="750" letter-spacing="-2">H4HappyLiving</text>
+  <text x="222" y="133" fill="#285247" font-family="Lora, Georgia, serif" font-size="17" font-style="italic">a happier rhythm for everyday life</text>
+</svg>

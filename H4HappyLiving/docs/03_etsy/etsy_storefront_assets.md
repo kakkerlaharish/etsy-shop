@@ -1,6 +1,6 @@
 # Etsy Storefront Assets
 
-> Verified against Etsy Help on 2026-07-30. Etsy can change requirements, so recheck the linked official sources before uploading.
+> Verified against Etsy Help on 2026-08-01. Etsy can change requirements, so recheck the linked official sources before uploading.
 
 ## Current H4HappyLiving status
 
@@ -32,12 +32,16 @@ The shop will not be open for business until the first listing is published.
 
 ### H4HappyLiving production specification
 
-- Source: `assets/brand/logos/h4happyliving-mark.svg`.
-- Export: **1000 x 1000 px PNG**, sRGB, under 10 MB.
-- Background: solid Warm Cream `#FFF9F1`; do not export transparency for Etsy.
-- Artwork: center the home-and-four-windows mark with generous, even padding.
-- Do not use the full wordmark in this small square placement.
-- Suggested filename: `h4happyliving-etsy-logo-1000x1000.png`.
+- Etsy upload asset: `assets/brand/etsy-shop/h4happyliving-etsy-shop-icon-four-pillars-500x500.png`.
+- High-resolution master: `assets/brand/etsy-shop/h4happyliving-etsy-shop-icon-four-pillars-2000x2000.png`.
+- Canva design: **H4HappyLiving Etsy Shop Icon - Four Pillars**.
+- Canva edit link: https://www.canva.com/d/_kA4T4fxfGn4I6d
+- Upload export: **500 x 500 px opaque RGB PNG**, approximately **126 KiB**, matching Etsy's recommended logo dimensions and well below its 10 MB limit.
+- Background: solid Warm Cream; no transparency or unsupported alpha channel.
+- Artwork: centered Evergreen `H` and Warm Coral `4` within gold and gray circular rings, surrounded by the four approved pillar symbols and banner-matched colors: golden checklist, blue book/lightbulb, coral pencil/brush, and green sprout.
+- Crop safety: the complete mark is contained inside the square canvas. Use the full-frame square crop and confirm the outer gold ring remains visible in Etsy's preview.
+- Status: approved, downscaled with high-quality resampling, and technically verified on 2026-08-01; Etsy upload and live thumbnail review remain pending.
+- Use this compact icon instead of the full wordmark in the small square shop-logo placement.
 
 ### Upload path
 
@@ -71,6 +75,16 @@ Etsy also allows no banner; that moves listings higher and makes the logo the mo
 - Avoid product claims, sales language, dates, and detailed text that will quickly become outdated.
 - Export as an sRGB PNG or high-quality JPG with no transparency.
 - Suggested filename: `h4happyliving-etsy-big-banner-1600x400.png`.
+
+### Approved H4HappyLiving banner
+
+- Canonical repository asset: `assets/brand/etsy-shop/h4happyliving-etsy-big-banner-1600x400.png`.
+- Canva design: **H4HappyLiving Etsy Banner - Final 1600x400**.
+- Canva edit link: https://www.canva.com/d/ulqEk53SOez5bRt
+- Dimensions: **1600 x 400 px**, opaque PNG.
+- Status: final version approved and exported on 2026-08-01; Etsy upload and storefront crop review remain pending.
+- The approved composition retains the warm textured background, botanical corners, blanket and thank-you tag, gift, bottom wave, central wordmark, tagline, and four brand pillars.
+- The two-line `thank you` text is optically centered on the visible brown circular tag at the lower left.
 
 ### Upload path
 
@@ -173,5 +187,13 @@ Shop-team details are managed through `Shop Manager -> Settings -> Your shop -> 
 - [Search Engine Optimization for Shop and Listing Pages](https://help.etsy.com/hc/en-us/articles/115015663987-Search-Engine-Optimization-SEO-for-Shop-and-Listing-Pages)
 
 ## Revision history
+
+- 2026-08-01 - Replaced the canonical banner with the final export and recorded the corrected thank-you tag alignment and final Canva title.
+
+- 2026-08-01 - Added the Etsy-recommended 500 x 500 upload export and documented its format, file size, crop handling, and retained high-resolution master.
+
+- 2026-08-01 - Recorded the final four-pillar Etsy shop icon with Evergreen `H` and Warm Coral `4`, Canva design, and canonical repository path.
+
+- 2026-08-01 - Recorded the approved original-style Etsy big banner and canonical repository path.
 
 - 2026-07-30 — Added Etsy-verified requirements and H4HappyLiving specifications for the logo, banner, About story, and seller photo.

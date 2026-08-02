@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 600" role="img" aria-labelledby="title desc">
+  <title id="title">H4HappyLiving rainbow wordmark alternative</title>
+  <desc id="desc">A clearly separated H4HappyLiving wordmark with a four-pillar rainbow accent and the tagline Practical joy for everyday life.</desc>
+
+  <!-- Four-pillar rainbow canopy -->
+  <g fill="none" stroke-width="18" stroke-linecap="round">
+    <path d="M90 290A810 270 0 0 1 1710 290" stroke="#F2B84B"/>
+    <path d="M120 290A780 240 0 0 1 1680 290" stroke="#77AFC2"/>
+    <path d="M150 290A750 210 0 0 1 1650 290" stroke="#E77B68"/>
+    <path d="M180 290A720 180 0 0 1 1620 290" stroke="#7FAE74"/>
+  </g>
+
+  <!-- Unified lighter wordmark with a standard, legible 4 -->
+  <text x="900" y="427" text-anchor="middle" font-family="Nunito Sans, Century Gothic, Arial, sans-serif" font-size="142" font-weight="700" letter-spacing="-4">
+    <tspan fill="#285247">H</tspan><tspan fill="#E77B68">4</tspan><tspan fill="#24332F">HappyLiving</tspan>
+  </text>
+
+  <!-- Tagline -->
+  <text x="900" y="515" text-anchor="middle" fill="#285247" font-family="Lora, Georgia, serif" font-size="35" font-style="italic">Practical joy for everyday life.</text>
+</svg>

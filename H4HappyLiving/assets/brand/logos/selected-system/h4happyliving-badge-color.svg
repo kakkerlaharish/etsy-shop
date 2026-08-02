@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+  <title id="title">H4HappyLiving full-color brand badge</title>
+  <desc id="desc">A flat full-color H4 badge with a Golden Joy roof, Evergreen H, Coral 4, Warm Cream field, and Evergreen circle.</desc>
+  <circle cx="500" cy="500" r="430" fill="#FFF9F1" stroke="#285247" stroke-width="54"/>
+  <path d="M225 355 500 175l275 180" fill="none" stroke="#F2B84B" stroke-width="76" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="Nunito Sans, Arial Rounded MT Bold, Arial, sans-serif" font-weight="800" letter-spacing="-42">
+    <text x="205" y="745" fill="#285247" font-size="470">H</text>
+    <text x="485" y="745" fill="#E77B68" font-size="470">4</text>
+  </g>
+</svg>

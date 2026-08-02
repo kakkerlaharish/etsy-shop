@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 180" role="img" aria-labelledby="title desc">
+  <title id="title">H4HappyLiving Interlock logo concept</title>
+  <desc id="desc">A compact H4 monogram paired with a modern H4HappyLiving wordmark.</desc>
+  <rect width="820" height="180" rx="24" fill="#FFF9F1"/>
+  <g transform="translate(28 26)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 10v118M18 68h58M76 10v118" stroke="#285247" stroke-width="18"/>
+    <path d="M116 10 78 76h52M116 10v118" stroke="#24332F" stroke-width="18"/>
+    <circle cx="130" cy="76" r="8" fill="#F2B84B" stroke="none"/>
+  </g>
+  <text x="202" y="103" fill="#24332F" font-family="Nunito Sans, Avenir Next, Arial, sans-serif" font-size="58" font-weight="750" letter-spacing="-2">H4HappyLiving</text>
+  <path d="M206 124h68" stroke="#F2B84B" stroke-width="8" stroke-linecap="round"/>
+</svg>

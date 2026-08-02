@@ -50,6 +50,11 @@ Source period: <period or "public evidence only">
 **Product:**
 **Customer:**
 **Promise:**
+**Purchase trigger:**
+**Primary sales hook:**
+**Original H4HappyLiving angle:**
+**First-use success moment:**
+**Customer satisfaction safeguards:**
 **Launch price:**
 **Regular test price:**
 

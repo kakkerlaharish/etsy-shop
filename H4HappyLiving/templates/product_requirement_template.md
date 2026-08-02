@@ -14,6 +14,19 @@
 - Product promise:
 - Intended use:
 
+## Creative and commercial direction
+
+- Purchase trigger:
+- Primary sales hook:
+- Main buyer objection:
+- Original H4HappyLiving angle:
+- First-use success moment:
+- Perceived-value drivers:
+- Customer satisfaction safeguards:
+- Likely support questions:
+- Thumbnail promise:
+- Listing-image story: outcome -> fit -> contents -> workflow -> differentiation -> proof/limitations
+
 ## Reference Listing Analysis
 
 Analyze 2-3 complementary listings selected from the approved niche research.
@@ -89,8 +102,14 @@ Do not copy competitor text, artwork, layouts, formulas, files, branding, or dis
 - [ ] Customer files are complete and clearly named.
 - [ ] Listing claims match the delivered product.
 - [ ] Final product retains a clear advantage over the reference listings.
+- [ ] The primary benefit is understandable from the thumbnail and first listing image.
+- [ ] A new customer can reach the promised first useful result without seller assistance.
+- [ ] Compatibility, limitations, and included files are clear before purchase.
+- [ ] The product experience justifies the price and reduces foreseeable review risk.
 
 ## Revision history
+
+- 2026-08-01 — Added the Creative Head commercial direction and customer-satisfaction gates.
 
 - 2026-07-31 — Added the evidence-based reference-listing analysis and product requirements structure.
 - 2026-07-29 — Initial starter document.

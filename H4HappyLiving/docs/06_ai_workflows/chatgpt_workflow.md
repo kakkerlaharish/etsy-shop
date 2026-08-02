@@ -4,6 +4,20 @@
 
 Turn a niche prompt and optional EverBee export into a concise, evidence-backed product decision for H4HappyLiving. Use this workflow whenever the user says `Research niche "<name>"` or requests product, niche, market, or competitor research.
 
+## Creative Head operating lens
+
+Approach the work as H4HappyLiving's Creative Head, responsible for both sales potential and customer satisfaction. Research should lead to a product customers can understand quickly, value after purchase, and recommend—not merely a market summary or attractive design.
+
+For every opportunity, determine:
+
+- **Buyer and purchase trigger:** the specific customer, desired outcome, emotional or practical motivation, and objection preventing purchase.
+- **Conversion story:** the clearest benefit, visible differentiator, thumbnail/listing-image promise, price-value logic, and proof needed to support the claim.
+- **Customer experience:** setup time, learning curve, instructions, accessibility, compatibility, reliability, and likely support questions.
+- **Creative direction:** an original H4HappyLiving concept and information hierarchy that fits the brand while remaining visibly different from competitors.
+- **Commercial verdict:** whether to proceed, test narrowly, reposition, simplify, or reject. Protect time and brand trust by challenging weak ideas.
+
+Sales and satisfaction are joint requirements. Never recommend a conversion claim the delivered product cannot reliably fulfill.
+
 ## Input
 
 Minimum prompt:
@@ -86,6 +100,10 @@ Calculate or assess:
 - Review-driven needs and friction
 - Production complexity and support burden
 - H4HappyLiving brand fit
+- Buyer purchase trigger and principal objection
+- First-image sales hook and visible differentiation
+- Expected setup experience and first-use value
+- Review risks caused by unclear scope, poor instructions, compatibility, or unreliable behavior
 
 Separate sourced facts, observed marketplace data, EverBee estimates, and strategic inference.
 
@@ -162,6 +180,9 @@ Use H4HappyLiving's Calm Everyday palette. Keep calculations formula-driven, pre
 - Do not invent Etsy tags when the public listing does not expose them.
 - Do not recommend a broad product when one focused submarket has stronger evidence.
 - Recommend a price, minimum viable product, differentiators, SEO direction, risks, and one next action.
+- Make the product's sales hook understandable without exaggeration and connect every important claim to a delivered feature.
+- Favor a smaller, polished product that satisfies its promise over a large bundle with weak usability.
+- Treat preventable confusion, formula or file failures, unclear compatibility, and misleading listing expectations as product defects.
 - Keep temporary builders, previews, and normalized files outside the permanent niche folder and remove them after verification.
 
 ## Product-development handoff
@@ -173,6 +194,7 @@ Start this phase only after the user approves a product recommendation.
 - Create the product folder using `templates/product_folder_template.md`.
 - Build `requirements/product-brief.md` from `templates/product_requirement_template.md`.
 - Carry forward the approved customer, promise, price, minimum viable product, SEO direction, risks, and evidence sources.
+- Define the purchase trigger, primary sales hook, first-use success moment, satisfaction safeguards, and visible differentiation before design begins.
 
 ### 2. Select reference listings
 
@@ -211,6 +233,14 @@ Add a `Reference Listing Analysis` section to the product brief. For every propo
 
 Prioritize requirements that appear across multiple sources or are supported by customer reviews. Reject features that add complexity without clear customer value.
 
+Also convert the evidence into a concise customer journey:
+
+1. Etsy thumbnail communicates the primary outcome.
+2. Listing images establish fit, contents, ease, differentiation, and limitations.
+3. Download and setup are obvious.
+4. The customer reaches a useful result quickly.
+5. Instructions and safeguards prevent the most likely negative-review scenarios.
+
 ### 5. Protect originality
 
 - Do not copy listing copy, artwork, page layouts, templates, formulas, files, branding, or distinctive creative expression.
@@ -230,6 +260,8 @@ Report only:
 - Confirmation that the source was archived and the inbox cleared
 
 ## Revision history
+
+- 2026-08-01 — Added the persistent Creative Head lens for conversion, customer satisfaction, originality, and commercial decision-making.
 
 - 2026-07-31 — Added dual-source product-tag analysis and the reference-listing product-development handoff.
 - 2026-07-30 — Replaced the starter with the complete Codex niche-research workflow.

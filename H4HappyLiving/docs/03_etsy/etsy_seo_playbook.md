@@ -4,6 +4,8 @@
 
 Make each listing easy for the right shopper to understand and find.
 
+The `Listing Agent` owns application of this playbook to Etsy listing strategy. It must also follow `docs/06_ai_workflows/listing_agent_workflow.md` and keep every important keyword recommendation traceable to evidence.
+
 ## Keyword process
 
 1. Start with the customer’s problem, product type, recipient, occasion, style, and format.
@@ -31,5 +33,6 @@ Revisit listings after enough impressions and visits to learn from. Change one m
 
 ## Revision history
 
+- 2026-08-02 — Assigned listing-level SEO strategy to the Listing Agent and added evidence-traceability requirements.
 - 2026-07-30 — Consolidated keyword evidence into the per-niche research workbook.
 - 2026-07-29 — Initial playbook.

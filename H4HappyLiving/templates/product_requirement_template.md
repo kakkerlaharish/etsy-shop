@@ -20,6 +20,9 @@
 - Primary sales hook:
 - Main buyer objection:
 - Original H4HappyLiving angle:
+- Signature customer-experience detail:
+- Evidence or customer need supporting the creative concept:
+- Creative tradeoffs or constraints:
 - First-use success moment:
 - Perceived-value drivers:
 - Customer satisfaction safeguards:
@@ -94,6 +97,15 @@ Do not copy competitor text, artwork, layouts, formulas, files, branding, or dis
 - Required test cases:
 - Evidence limitations:
 
+## Business Owner checkpoints
+
+- Opportunity approved for product definition: yes | no
+- Product definition approved for development: yes | no
+- Development entry approval date:
+- Developed product accepted for Etsy listing: yes | no
+- Development acceptance date:
+- Approval notes or constraints:
+
 ## Acceptance checklist
 
 - [ ] Every must-have requirement is implemented.
@@ -109,7 +121,8 @@ Do not copy competitor text, artwork, layouts, formulas, files, branding, or dis
 
 ## Revision history
 
-- 2026-08-01 — Added the Creative Head commercial direction and customer-satisfaction gates.
+- 2026-08-02 — Added mandatory Business Owner checkpoints before development and before Etsy listing.
+- 2026-08-01 — Added commercial-direction and customer-satisfaction gates.
 
 - 2026-07-31 — Added the evidence-based reference-listing analysis and product requirements structure.
 - 2026-07-29 — Initial starter document.

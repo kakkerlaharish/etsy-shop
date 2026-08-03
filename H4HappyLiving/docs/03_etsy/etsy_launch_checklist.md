@@ -9,12 +9,18 @@
 - [ ] Seller photo and owner role/bio added.
 - [ ] Logo, banner, About section, and seller photo reviewed on desktop and mobile.
 - [ ] Demand, competition, and keyword evidence recorded.
+- [ ] Business Owner's development acceptance is recorded in the product brief or handoff.
+- [ ] Latest product-prefixed development-to-listing handoff reviewed.
+- [ ] Listing Agent completed and verified the offline listing record.
 - [ ] Product files and instructions have been tested.
 - [ ] File names are buyer-friendly.
 - [ ] Mockups accurately show the item.
 - [ ] Listing title, tags, category, attributes, and description are complete.
 - [ ] Price accounts for fees, effort, and market position.
 - [ ] Policy and license language are accurate.
+- [ ] Product-prefixed Listing-Agent-to-Shop-Manager handoff created with status `Owner Review Required`.
+- [ ] Business Owner approved the listing content, pricing, publishing, and external actions.
+- [ ] Shop Manager confirmed the approved listing package and authorization before entering Etsy.
 - [ ] Listing viewed on desktop and mobile.
 - [ ] Listing URL and launch date logged.
 - [ ] First performance review scheduled.

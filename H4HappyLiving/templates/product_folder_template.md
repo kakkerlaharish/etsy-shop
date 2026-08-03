@@ -12,6 +12,7 @@ products/
     ├── README.md
     ├── requirements/
     ├── research/
+    ├── handoffs/
     ├── designs/
     ├── deliverables/
     ├── etsy-shop/
@@ -29,6 +30,7 @@ products/
 |---|---|
 | `requirements/` | Product brief, customer problem, scope, sizes, and acceptance criteria |
 | `research/` | Keywords, competitor notes, market evidence, licenses, and source links |
+| `handoffs/` | Product-prefixed agent handoff files, owner checkpoints, approval status, and next-stage instructions |
 | `designs/` | Editable source files and working design iterations |
 | `deliverables/` | Final customer-ready files, instructions, and bundle ZIP files |
 | `etsy-shop/listing-copy/` | Listing title, description, tags, attributes, pricing, and FAQs |
@@ -72,6 +74,7 @@ Create `README.md` at the root of each product folder with:
 - Promote a product-specific template to the shared template library only after it has proven reusable across multiple products.
 - Record brand pillars as metadata; do not create Organize, Learn, Create, or Thrive parent directories.
 - Keep exported customer files separate from editable source designs.
+- Prefix every handoff filename with the product slug and keep handoffs in chronological sequence.
 - Move obsolete versions to `archive/` rather than mixing them with current files.
 
 ## Canva equivalent
@@ -95,6 +98,7 @@ The top-level Canva Product folder should remain empty until a real product is c
 
 ## Revision history
 
+- 2026-08-02 — Added the product-level handoff folder and product-prefixed handoff naming rule.
 - 2026-07-30 — Aligned the template with the implemented Canva Product and legacy Archive structure.
 - 2026-07-30 — Replaced pillar-first organization with a product-first, self-contained folder standard.
 - 2026-07-29 — Initial starter document.

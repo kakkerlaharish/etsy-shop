@@ -4,9 +4,9 @@
 
 Turn a niche prompt and optional EverBee export into a concise, evidence-backed product decision for H4HappyLiving. Use this workflow whenever the user says `Research niche "<name>"` or requests product, niche, market, or competitor research.
 
-## Creative Head operating lens
+## Commercial product standards
 
-Approach the work as H4HappyLiving's Creative Head, responsible for both sales potential and customer satisfaction. Research should lead to a product customers can understand quickly, value after purchase, and recommend—not merely a market summary or attractive design.
+Evaluate both sales potential and customer satisfaction. Research should lead to a product customers can understand quickly, value after purchase, and recommend—not merely a market summary or attractive design.
 
 For every opportunity, determine:
 
@@ -136,7 +136,7 @@ Do not raise a score to make a niche appear attractive. Explain the strongest co
 
 ## Output contract
 
-Create exactly these permanent outputs:
+Create exactly these permanent outputs inside the niche folder:
 
 ```text
 research/niches/<niche-slug>/
@@ -145,6 +145,14 @@ research/niches/<niche-slug>/
 `-- source/
     `-- everbee-original.<ext>   # only when provided
 ```
+
+Also create the required owner-review handoff outside the niche folder:
+
+```text
+research/handoffs/<niche-slug>__NN__analytics-to-owner__handoff.md
+```
+
+Build it from `templates/agent_handoff_template.md`, set its status to `Owner Review Required`, link to `analysis.md` and `evidence.xlsx`, and stop. The separate handoff does not change the three-file niche-folder contract.
 
 ### `analysis.md`
 
@@ -195,6 +203,10 @@ Start this phase only after the user approves a product recommendation.
 - Build `requirements/product-brief.md` from `templates/product_requirement_template.md`.
 - Carry forward the approved customer, promise, price, minimum viable product, SEO direction, risks, and evidence sources.
 - Define the purchase trigger, primary sales hook, first-use success moment, satisfaction safeguards, and visible differentiation before design begins.
+- Propose one evidence-led creative concept that explains the original H4HappyLiving experience, the customer need it serves, why it is distinct, and the tradeoffs it introduces.
+- Create `products/<product-slug>/handoffs/<product-slug>__NN__analytics-to-development__handoff.md` from `templates/agent_handoff_template.md` with status `Owner Review Required`.
+- Stop after preparing the brief and handoff. Do not begin or trigger Product Design and Development.
+- Product Design and Development may begin only after the Business Owner records development-entry approval in the brief or handoff.
 
 ### 2. Select reference listings
 
@@ -248,6 +260,7 @@ Also convert the evidence into a concise customer journey:
 - Use competitor evidence to understand problems, workflows, quality expectations, and market gaps.
 - Build an original structure, design system, copy, calculations, and customer experience.
 - Record the final differentiators before design begins.
+- Carry the evidence-led creative concept into the handoff as `Proposed` unless the Business Owner has explicitly approved it.
 
 ## Completion response
 
@@ -257,11 +270,13 @@ Report only:
 - Three to five decisive findings
 - Best product opportunity
 - Links to `analysis.md` and `evidence.xlsx`
+- Link to the pre-approval handoff
 - Confirmation that the source was archived and the inbox cleared
 
 ## Revision history
 
-- 2026-08-01 — Added the persistent Creative Head lens for conversion, customer satisfaction, originality, and commercial decision-making.
+- 2026-08-02 — Added the product-prefixed analytics-to-development handoff and mandatory Business Owner stop before development.
+- 2026-08-01 — Added role-neutral standards for conversion, customer satisfaction, originality, and commercial decision-making.
 
 - 2026-07-31 — Added dual-source product-tag analysis and the reference-listing product-development handoff.
 - 2026-07-30 — Replaced the starter with the complete Codex niche-research workflow.

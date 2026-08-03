@@ -69,6 +69,18 @@ Use `Not applicable` for fields that do not apply. Never imply approval when a d
 
 Keep sourced evidence, strategic inference, and approved decisions separate. A proposed creative contribution does not expand scope until the Business Owner approves it.
 
+## Competitive and commercial contribution
+
+- Meaningful differentiation or competitive advantage:
+- Expected sales, conversion, retention, or average-order-value effect:
+- Expected profit, margin, cost, effort, support, or refund-risk effect:
+- Supporting evidence, estimate, or assumption:
+- Measurement or validation approach:
+- Tradeoffs or customer-trust safeguards:
+- Status: `Proposed` | `Owner-approved` | `Implemented` | `Not applicable — <reason>`
+
+Do not present forecasts as facts. Commercial recommendations must remain within the operating agent's role and must not bypass Business Owner approval.
+
 ## Next-agent assignment
 
 - Objective:

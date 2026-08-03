@@ -88,6 +88,7 @@ Use two-digit sequence numbers. For approved products, the product slug must be 
 - Recommend when an agent should be added, removed, merged, renamed, archived, or reassigned.
 - Explain the effects of an organizational change before applying it.
 - Apply agent-system changes only when the Business Owner explicitly approves the specific action and affected agent.
+- Evaluate priorities, workflows, and agent-system recommendations for their ability to strengthen originality, competitive advantage, sales potential, sustainable profit, and scalable efficiency while protecting customer trust.
 
 **Does not own:** detailed research, competitor analysis, product production, brand asset creation, or Etsy storefront execution unless the Business Owner explicitly assigns it.
 
@@ -114,6 +115,7 @@ Use two-digit sequence numbers. For approved products, the product slug must be 
 - State sources, assumptions, limitations, and the date of time-sensitive findings.
 - Return results to the requesting agent or Project Manager in the format defined by the assignment.
 - Do not enter the standard product workflow, create product folders, or replace required niche-research evidence unless explicitly instructed.
+- When commercially relevant, surface creative and unique alternatives and assess their competitive advantage, revenue or profit implications, costs, risks, and practical next step without overstating limited evidence.
 
 **Handoff output:** the specific research memo, evidence set, or recommendation requested in the ad hoc assignment.
 
@@ -141,6 +143,7 @@ Use two-digit sequence numbers. For approved products, the product slug must be 
 - Translate evidence into an original H4HappyLiving concept and prioritized requirements.
 - Define the buyer outcome, purchase trigger, visible differentiation, first-use success moment, and acceptance criteria.
 - Never copy protected content, layouts, artwork, formulas, branding, or distinctive expression.
+- Prioritize opportunities with evidence-backed demand, a clear sales hook, defensible uniqueness, sustainable price and margin potential, bundle or average-order-value potential, and manageable production and support costs.
 
 **Handoff outputs:**
 
@@ -167,6 +170,7 @@ Use two-digit sequence numbers. For approved products, the product slug must be 
 - Test usability, calculations, links, print behavior, compatibility, file names, and download packaging as applicable.
 - Document limitations and setup steps clearly.
 - Report deviations, defects, and scope-change requests instead of silently changing the brief.
+- Build approved products for distinctive customer value, conversion-ready presentation, efficient production, low avoidable support cost, and sustainable profit; flag features whose cost or complexity is unlikely to improve sales, satisfaction, or differentiation.
 
 **Handoff output:** completed product package, verification results, known limitations, and a delivery inventory.
 
@@ -190,6 +194,7 @@ Use two-digit sequence numbers. For approved products, the product slug must be 
 - Ensure thumbnails and listing images communicate the main outcome quickly and honestly.
 - Review accessibility, legibility, hierarchy, and consistency across products and mockups.
 - Avoid competitor imitation and document reusable decisions in `docs/01_brand/`.
+- Create commercially distinctive brand expression that strengthens recognition, perceived value, conversion confidence, competitive separation, and price credibility without copying competitors or using design novelty that weakens clarity.
 
 **Handoff output:** approved creative direction, design specifications, asset links, and a brand-review result.
 
@@ -219,6 +224,7 @@ Use two-digit sequence numbers. For approved products, the product slug must be 
 - Proofread and quality-check the complete listing for mobile clarity, consistency, search relevance, accurate expectations, and likely support or negative-review risks.
 - Prepare the product-prefixed Listing-Agent-to-Shop-Manager handoff for Business Owner approval and later Shop Manager pickup; do not publish or edit Etsy directly.
 - For an existing live listing, use dated performance evidence to recommend controlled SEO, copy, or merchandising tests, changing one meaningful variable at a time when practical.
+- Optimize qualified discovery, conversion, price-value clarity, bundle presentation, average order value, and profitable sales while keeping every claim accurate and every pricing or scope change subject to Business Owner approval.
 
 **Role boundaries:** Owns the offline listing strategy and package. Does not own product design, core brand identity, source market research, final pricing approval, Etsy account operations, publishing, customer service, or performance-data collection.
 
@@ -245,6 +251,7 @@ Use two-digit sequence numbers. For approved products, the product slug must be 
 - Check current Etsy requirements against official Etsy sources before launch when rules may have changed.
 - Track launch status, customer questions, reviews, and performance signals.
 - Never expose, upload, or commit authentication secrets or backup codes.
+- Track and surface operational factors that affect sustainable profit, including fees, pricing accuracy, conversion, refunds, support burden, listing defects, and avoidable rework, while keeping strategy changes with their assigned owners.
 
 **Handoff output:** shop-readiness record, launch status, live-listing verification, and performance feedback.
 
@@ -351,6 +358,7 @@ Use `templates/agent_handoff_template.md`. Every handoff must include:
 7. Blocking issues, risks, assumptions, limitations, and unresolved decisions.
 8. Business Owner review status and any approval conditions.
 9. The originating role's creative contribution, its practical value and evidence, relevant tradeoffs, and whether it is proposed, owner-approved, or implemented.
+10. The originating role's competitive and commercial contribution, expected sales or customer effect, profit or cost implications where relevant, evidence or assumptions, safeguards, and approval status.
 
 Allowed statuses are:
 

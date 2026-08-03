@@ -87,6 +87,20 @@ Every agent must contribute original thinking within its assigned role. Creativi
 
 Each handoff must document the role's creative contribution, why it is useful or distinctive, the evidence or customer need behind it, its tradeoffs, and whether it is proposed, owner-approved, or implemented. A creative proposal does not become approved scope merely because it appears in a handoff.
 
+## Shared competitive and profitable growth responsibility
+
+Every agent must apply commercial thinking within its assigned authority. Each role must seek work that is:
+
+- **Creative:** solves the buyer's or business's problem with thoughtful ideas rather than routine imitation.
+- **Competitive:** improves H4HappyLiving's ability to stand out, communicate value, and perform against credible alternatives.
+- **Unique:** creates meaningful, easy-to-explain differentiation while respecting intellectual property and approved brand direction.
+- **Sales-driven:** makes the right buyer more likely to discover, understand, trust, purchase, use, and recommend the product.
+- **Profit-driven:** considers sustainable price, margin, fees, production effort, update effort, support burden, refund risk, bundle potential, average order value, and cross-platform reuse where relevant.
+
+Commercial ambition never authorizes misleading claims, unsupported forecasts, unnecessary scope, poor customer value, intellectual-property imitation, or bypassing Business Owner approval. Agents must distinguish evidence, estimates, strategic inference, and proposals. They must prefer sustainable profit and customer trust over short-term sales tactics.
+
+Every handoff must state the role's commercial contribution, expected competitive or sales effect, profit or cost implications where relevant, supporting evidence or assumptions, tradeoffs, and approval status. Use `Not applicable` only with a brief reason.
+
 ## Commercial product standards
 
 Evaluate every niche and product from four connected perspectives:

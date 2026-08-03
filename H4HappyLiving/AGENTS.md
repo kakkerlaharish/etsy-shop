@@ -14,6 +14,7 @@ The authoritative exact-name mapping is:
 | `product research Agent` | Ad Hoc Research Specialist |
 | `product development Agent` | Product Design and Development Lead |
 | `Listing Agent` | SEO Strategist, Conversion Copywriter, and Listing Merchandiser |
+| `shop manager Agent` | Etsy Shop Operations Manager |
 
 Identity rules:
 

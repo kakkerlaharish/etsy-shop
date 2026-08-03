@@ -4,6 +4,7 @@ All notable project-system changes are recorded here.
 
 ## Unreleased
 
+- Embedded the full shared commercial-growth context inside every individual role profile and every one-time binding prompt, and added a handoff check confirming that the complete role context was loaded.
 - Added a shared creative, competitive, unique, sales-driven, and sustainable-profit responsibility to all seven roles, tailored the duty to each role's authority, and added commercial-impact fields to future handoffs.
 - Added exact agent identity binding, a seven-agent ownership registry, role locks, one-time chat startup prompts, and identity fields in handoffs after a specialist chat incorrectly defaulted to the Project Manager role.
 - Recorded the Business Owner's confirmation that the `Listing Agent` chat window has been added to the project and is available for ad hoc assignments.

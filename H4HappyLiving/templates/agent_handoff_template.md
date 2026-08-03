@@ -20,6 +20,7 @@
 - Assigned role:
 - Identity binding source:
 - Role-specific operating file read:
+- Complete role profile and shared growth context loaded: yes | no
 - Scope and exclusion check passed: yes | no
 
 The operating agent name and assigned role must match `docs/06_ai_workflows/agent_identity_and_startup.md`. If they do not match, stop and resolve identity before continuing.
